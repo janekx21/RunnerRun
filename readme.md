@@ -4,5 +4,5 @@
 Its made with pygame and python.
 The grafics are free to use for everyone.
 
-![Ingame Pic](/screenshots/ss1.png)
-![Ingame Pic](/screenshots/ss2.png)
+![Ingame Pic](screenshots/ss1.png)
+![Ingame Pic](screenshots/ss2.png)
